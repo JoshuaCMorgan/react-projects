@@ -11,8 +11,8 @@ function App() {
 
   const resetPeople = () => {
     setPeople(data);
-
   }
+  
   return (
     <main>
       <section className="container">
